@@ -10,8 +10,8 @@
 > So if you're still interested when you're done here, go check those out! I do hope the somewhat different concept of this tutorial will aid you in understanding all the other git features detailed there.
 
 ---
-- [Home](#home)
-#Ejemplo 1
+- [Home]
+# Ejemplo 1
 ## Encabezado h2
-
+![](images/bosque-humedo.jpg)
 
