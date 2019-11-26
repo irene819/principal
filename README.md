@@ -13,5 +13,5 @@
 - [Home]
 # Ejemplo 1
 ## Encabezado h2
-![](images/bosque-humedo.jpg)
+![Bosque](bosque-humedo.jpg)
 
